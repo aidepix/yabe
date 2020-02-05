@@ -1,8 +1,3 @@
-Test eins zwei
-https://github.com/hsellin/yabe/wiki
+Test eins zwei drei
 
-<a href="https://github.com/hsellin/yabe/wiki" 
-   title="mehr Informationen">
-    Das href-Attribut
-</a>
-[Hier wiki](https://github.com/hsellin/yabe/wiki)
+vier
